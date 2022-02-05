@@ -10,30 +10,288 @@ Archer, David. _Global Warming: Understanding the Forecast_. Wiley, 2011. ISBN: 
 
 \[IPCC\] _Climate Change 2007—The Physical Science Basis: Working Group I Contribution to the Fourth Assessment Report of the IPCC_. Cambridge University Press, 2007. ISBN: 9780521880091.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | Chapter 1 in \[IPCC\]. |
-| 2 | The Origin of Earth's Atmosphere and Oceans | <no readings> |
-| 3 | Paleoclimate I & Paleoclimate 2 | Chapter 6 in \[IPCC\]. |
-| 4 | The Instrumental Record | Chapters 3.2 & 6 in \[IPCC\]. |
-| 5 | Atmospheric Composition and Greenhouse Gases | Chapters 3 & 4 in \[Global Warming\]. |
-| 6 | Radiative Transfer I | Chapters 3 & 4 in \[Global Warming\]. |
-| 7 | Radiative Transfer II | Chapters 3 & 4 in \[Global Warming\]. |
-| 8 | Radiative-Convective Equilibrium I | Chapter 5 in \[Global Warming\]. |
-| 9 | Radiative-Convective Equilibrium II | Chapter 5 in \[Global Warming\]. |
-| 10 | The Circulation of the Atmosphere and Oceans I | Chapter 6 in \[Global Warming\]. |
-| 11 | The Circulation of the Atmosphere and Oceans II | Chapter 6 in \[Global Warming\]. |
-| 12 | Non-CO2 Greenhouse Gases | Chapter 4 in \[Global Warming\]. |
-| 13 | The Earth's Carbon Cycle | Chapter 8 in \[Global Warming\]. |
-| 14 | Aerosols | Chapter 2.4 in \[IPCC\]. |
-| 15 | Climate Sensitivity, Forcings, and Feedbacks | <no readings> |
-| 16 | Solar and Orbital Variability | Chapters 8 & 10 in \[Global Warming\]. |
-| 17 | Cloud, Water Vapor, Ice Albedo, and Other Feedbacks | Chapter 2.4 in \[IPCC\]. |
-| 18 | Climate Models I: General Concept, History, and Design | Chapters 8.1 & 8.2 in \[IPCC\]. |
-| 19 | Climate Models II: Parameterizations | Chapters 8.3 & 9 in \[IPCC\]. |
-| 20 | Climate Models III: Predictions and Projections | Chapter 10 in \[IPCC\]. |
-| 21 | Climate Change Mitigation and Some Links to Adaptation | <no readings> |
-| 22 | Geoengineering | Robock, Alan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["20 Reasons Why Geoengineering May be a Bad Idea." (PDF)](http://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) _Bulletin of the Atomic Scientists_ 64, no. 2 (2008): 14–8, and 59. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Origin of Earth's Atmosphere and Oceans
+{{< tdclose >}}
+{{< tdopen >}}
+\<no readings>
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Paleoclimate I & Paleoclimate 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Instrumental Record
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3.2 & 6 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Atmospheric Composition and Greenhouse Gases
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 & 4 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative Transfer I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 & 4 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative Transfer II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3 & 4 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative-Convective Equilibrium I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Radiative-Convective Equilibrium II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Circulation of the Atmosphere and Oceans I
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Circulation of the Atmosphere and Oceans II
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Non-CO2 Greenhouse Gases
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Earth's Carbon Cycle
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Aerosols
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.4 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Sensitivity, Forcings, and Feedbacks
+{{< tdclose >}}
+{{< tdopen >}}
+\<no readings>
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Solar and Orbital Variability
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 8 & 10 in \[Global Warming\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Cloud, Water Vapor, Ice Albedo, and Other Feedbacks
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2.4 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Models I: General Concept, History, and Design
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 8.1 & 8.2 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Models II: Parameterizations
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 8.3 & 9 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Models III: Predictions and Projections
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 in \[IPCC\].
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Climate Change Mitigation and Some Links to Adaptation
+{{< tdclose >}}
+{{< tdopen >}}
+\<no readings>
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Geoengineering
+{{< tdclose >}}
+{{< tdopen >}}
+Robock, Alan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["20 Reasons Why Geoengineering May be a Bad Idea." (PDF)](http://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) _Bulletin of the Atomic Scientists_ 64, no. 2 (2008): 14–8, and 59.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Extra Readings
 --------------
