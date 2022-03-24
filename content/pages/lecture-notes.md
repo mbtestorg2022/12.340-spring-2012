@@ -61,7 +61,7 @@ David McGee
 4
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Instrumental Record (PDF - 1.4MB)]({{< baseurl >}}/resources/mit12_340s12_lec4)
+[The Instrumental Record (PDF - 1.4MB)]({{< baseurl >}}/resources/mit12_340s12_lec4)
 {{< tdclose >}}
 {{< tdopen >}}
 Kerry Emanuel
@@ -157,7 +157,7 @@ Kerry Emanuel
 12
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Non-CO2 Greenhouse Gases (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_340s12_lec12)
+[Non-CO2 Greenhouse Gases (PDF - 1.6MB)]({{< baseurl >}}/resources/mit12_340s12_lec12)
 {{< tdclose >}}
 {{< tdopen >}}
 Daniel Cziczo
@@ -169,7 +169,7 @@ Daniel Cziczo
 13
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Earth's Carbon Cycle (PDF - 2.4MB)]({{< baseurl >}}/resources/mit12_340s12_lec13)
+[The Earth's Carbon Cycle (PDF - 2.4MB)]({{< baseurl >}}/resources/mit12_340s12_lec13)
 {{< tdclose >}}
 {{< tdopen >}}
 David McGee
@@ -241,7 +241,7 @@ Kerry Emanuel
 19
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Climate Models II: Parameterizations (PDF - 2.9MB)]({{< baseurl >}}/resources/mit12_340s12_lec19)
+[Climate Models II: Parameterizations (PDF - 2.9MB)]({{< baseurl >}}/resources/mit12_340s12_lec19)
 {{< tdclose >}}
 {{< tdopen >}}
 Kerry Emanuel
@@ -253,7 +253,7 @@ Kerry Emanuel
 20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Climate Models III: Predictions and Projections (PDF - 1.9MB)]({{< baseurl >}}/resources/mit12_340s12_lec20)
+[Climate Models III: Predictions and Projections (PDF - 1.9MB)]({{< baseurl >}}/resources/mit12_340s12_lec20)
 {{< tdclose >}}
 {{< tdopen >}}
 Daniel Cziczo

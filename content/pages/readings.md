@@ -286,7 +286,7 @@ Climate Change Mitigation and Some Links to Adaptation
 Geoengineering
 {{< tdclose >}}
 {{< tdopen >}}
-Robock, Alan. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["20 Reasons Why Geoengineering May be a Bad Idea." (PDF)](http://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) _Bulletin of the Atomic Scientists_ 64, no. 2 (2008): 14–8, and 59.
+Robock, Alan. ["20 Reasons Why Geoengineering May be a Bad Idea." (PDF)](http://climate.envsci.rutgers.edu/pdf/20Reasons.pdf) _Bulletin of the Atomic Scientists_ 64, no. 2 (2008): 14–8, and 59.
 {{< tdclose >}}
 
 {{< trclose >}}
